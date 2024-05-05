@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+### To see your built project in the browser, use the commando:
+
+```sh
+npm run preview
+```
